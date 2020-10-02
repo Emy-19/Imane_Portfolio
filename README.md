@@ -7,6 +7,7 @@ Project 1: Applying statistics to predict the popularity of TED Talks
 - Using statistical modelling will allow the building of models and assess the best model.
 
 *Statistical problems identified:
+
 Which characteristics are strongly associated with high number of views?
 
 *Objectives:

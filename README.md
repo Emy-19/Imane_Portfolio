@@ -1,7 +1,7 @@
 # Imane_Portfolio
 Data Science/ Analysis Portfolio
 
-[Project 1: Data Science/ Analysis Portfolio Project 1: Applying statistics to predict the popularity of TED Talks] (https://github.com/ImaneHoumir1319/Imane_Portfolio/blob/main/TED%20Talks_Project.pptx)
+# [Project 1: Data Science/ Analysis Portfolio Project 1: Applying statistics to predict the popularity of TED Talks] (https://github.com/ImaneHoumir1319/Imane_Portfolio/blob/main/TED%20Talks_Project.pptx)
 
 Background:
 
